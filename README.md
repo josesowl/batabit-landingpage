@@ -59,5 +59,5 @@ With this project I was able to learn how to use semantic HTML5 to layout a web 
 
 ### How to see the page
 
-just need to click here [https://batabit-landingpage.netlify.app/] to see the app deploy
+just need to click [here](https://batabit-landingpage.netlify.app/) to see the app deploy
 
