@@ -267,7 +267,6 @@ main {
     position: relative;
     width: 100%;
     min-width: 320px;
-    max-width: 600px;
     height: auto;
     padding: 20px 10px;
     margin: 0 auto;
@@ -369,7 +368,6 @@ main {
 
 .bitcoin-img-container {
     width: 100%;
-    max-width: 600px;
     min-width: 320px;
     height: 50vh;
     margin: 0 auto;
@@ -377,6 +375,7 @@ main {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .bitcoin-img-container h2 {
@@ -533,6 +532,7 @@ main {
 footer {
     display: flex;
     width: 100%;
+    min-width: 320px;
     height: 150px;
     background-color: var(--bitcoin-orange);
 }
